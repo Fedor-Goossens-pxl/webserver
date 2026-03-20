@@ -5,7 +5,7 @@ Een statische portfoliowebsite gebouwd met HTML, CSS en JavaScript. De site beva
 ## Projectstructuur
 
 ```
-webserver5/
+webserver/
 ├── index.html          # Hoofdpagina
 ├── css/
 │   └── style.css       # Stijlen
@@ -34,14 +34,14 @@ xdg-open index.html     # Linux
 Deze site is gehost via **GitHub Pages** en bereikbaar op:
 
 ```
-https://fedor-goossens-pxl.github.io/webserver5/
+https://fedor-goossens-pxl.github.io/webserver/
 ```
 
 ## Technologieën
 
 | Technologie | Gebruik |
 |---|---|
-| HTML5 | Structuur van de pagina's |
+| HTML | Structuur van de pagina's |
 | CSS3 | Opmaak en layout |
 | JavaScript | Interactiviteit |
 | PDF | Downloadbare bestanden |
